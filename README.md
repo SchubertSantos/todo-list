@@ -40,6 +40,10 @@ Página de um TODO List (Lista de Tarefas).
 
 - Página de TODO List (Lista de Tarefa).
 - Inserção de tarefas e exclusão de tarefas. 
+- Saber quando o botão foi clicado. 
+- Pegar o texto dentro do Input. 
+- Colocar esse texto na tela. 
+- Deletar a tarefa da tela (Quando eu clicar  no X).
 
 
 
