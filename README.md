@@ -14,7 +14,7 @@ Projeto Portfólio em HTML, CSS e JAVASCRIPT. <br/>
 <br>
 
 <p align="center">
-  <img alt="Conversor de Moedas" src="Assets/ToDoList.png" width="100%">
+  <img alt="Todo List" src="Assets/ToDoList.png" width="100%">
 </p>
 
 
